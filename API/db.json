@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Ryan",
+      "email": "yak30257987@gmail.com",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "name": "Brian",
+      "email": "brian@gmail.com",
+      "password": "987654321",
+      "id": 2
+    },
+    {
+      "email": "emily@test.com",
+      "password": "emily1108",
+      "name": "Emily",
+      "id": 3
+    },
+    {
+      "email": "Tom@test.com",
+      "password": "Tom123",
+      "name": "Tom",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Burger King",
+      "address": "Kaohsiung 123",
+      "contact": 1111,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "McDonold",
+      "contact": 2222,
+      "address": "Taichung 123 123"
+    },
+    {
+      "name": "Umai",
+      "address": "Taipei 321",
+      "contact": 3333,
+      "id": 3
+    }
+  ]
+}
